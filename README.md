@@ -1,5 +1,7 @@
 # Cobalt Strike Tools
 
+https://verify.cobaltstrike.com/
+
 
 ### CobaltStrike4.7  
 Hash：c1cda82b39fda2f77c811f42a7a55987adf37e06a522ed6f28900d77bbd4409f   
